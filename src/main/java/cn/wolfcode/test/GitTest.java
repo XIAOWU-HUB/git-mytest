@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println(1111);
         System.out.println("12345678");
         System.out.println("push commit");
+        System.out.println("pull commit");
     }
 }
